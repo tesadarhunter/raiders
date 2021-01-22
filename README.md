@@ -4,4 +4,5 @@ Descriptions of Raid tactics
 
 ### Update Log
 Castle of Nathria
-Normal Raid tactics: Nyang's Raiders (2021-01-04)
+Normal Raid tactics: Nyang's Raiders (2021-01-04)  
+Heroic Raid tactics: Nyang's Raiders (2021-01-23)
